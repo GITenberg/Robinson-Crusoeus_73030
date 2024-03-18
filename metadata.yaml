@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '56919'
     url: http://www.gutenberg.org/2009/agents/56919
     wikipedia: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Joseph_Goffaux
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Campe, Joachim Heinrich
@@ -37,6 +40,8 @@ creator:
     - https://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/ebooks/author/26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73030#Robinson-Crusoeus
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
